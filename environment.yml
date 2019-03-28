@@ -8,13 +8,10 @@ dependencies:
   - matplotlib
   - python>=3.6
   - seaborn
+  - jupyter
+  - scikit-learn
 
   # Natural language processing
   - tweepy
   - nltk
   - textblob
-
-  - pip:
-      # Utilities
-      - download
-      - nbclean
